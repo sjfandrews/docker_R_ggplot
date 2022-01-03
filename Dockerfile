@@ -1,7 +1,7 @@
 FROM rhub/r-minimal
 
 RUN installr -d \
-   -t "R-dev file automake autoconf linux-headers libxml2-dev" \
+   -t "R-dev file automake autoconf linux-headers libxml2-dev libgmp3-dev" \
    -a "libxml2 icu-libs" `# needed for xml2 and stringr`  \
    gmp \
    tidyverse/readxl `# CRAN version (<=1.3.1) does not compile on alpine` \
