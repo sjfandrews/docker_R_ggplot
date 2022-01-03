@@ -106,3 +106,6 @@ dependencies:
     - r-memoise=2.0.1
     - r-gargle=1.2.0
     - r-googleAuthR=1.4.1
+    - r-markdown=1.1
+    - r-cairo=1.5_14
+
