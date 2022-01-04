@@ -13,6 +13,6 @@ RUN R --vanilla -e 'remotes::install_github("MRCIEU/ieugwasr", dependencies=FALS
 RUN R --vanilla -e 'remotes::install_github("WSpiller/RadialMR", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
 RUN R --vanilla -e 'remotes::install_github("MRCIEU/TwoSampleMR@0.5.6", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
 RUN R --vanilla -e 'remotes::install_github("GenomicSEM/GenomicSEM", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
-RUN R --vanilla -e 'remotes::install_github(LizaDarrous/lhcMR", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
+RUN R --vanilla -e 'remotes::install_github("LizaDarrous/lhcMR", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
 
 
