@@ -108,4 +108,11 @@ dependencies:
     - r-googleAuthR=1.4.1
     - r-markdown=1.1
     - r-cairo=1.5_14
-
+    - r-pbivnorm=0.6.0
+    - r-mgsub=1.7.3
+    - r-splitstackshape=1.4.8
+    - r-lavaan=0.6_9
+    - r-segmented=1.3_4
+    - r-kernlab=0.9_29
+    - r-rslurm=0.6.1
+    - r-mixtools=1.2.0
