@@ -116,3 +116,6 @@ dependencies:
     - r-kernlab=0.9_29
     - r-rslurm=0.6.1
     - r-mixtools=1.2.0
+    - r-gdata=2.18.0
+    - r-doparallel=1.0.16
+    - r-r.utils=2.11.0
