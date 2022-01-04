@@ -119,3 +119,11 @@ dependencies:
     - r-gdata=2.18.0
     - r-doparallel=1.0.16
     - r-r.utils=2.11.0
+    - r-invgamma=1.1
+    - r-etrunct=0.1
+    - r-mixsqp=0.3_43
+    - r-rcppparallel=5.1.4
+    - r-intervals=0.15.2
+    - r-loo=2.4.1
+    - r-ashr=2.2_47
+
