@@ -1,2 +1,2 @@
-# docker_R_MendelianRandomization
-Docker image for Mendelian Randomization R packages
+# docker_R_ggplot
+Docker image for ggplot R packages
